@@ -769,7 +769,7 @@
             "[+1] Movement <for [Mounted] units> <hidden from users>",
             "[+1] Movement <for [Armored] units> <hidden from users>",
             "[+1 Food] from every [Horses] <after discovering [Chivalry]>",
-            "Provides [2] [Horses] <for every [[non-[{Annexed} {Puppeted}]] Cities]> <after discovering [Chivalry]>"
+            "Provides [2] [Horses] <for every [[non-[Annexed]] Cities]> <after discovering [Chivalry]>"
         ],
         "cities": [
             "Karakorum","Beshbalik","Turfan","Hsia","Old Sarai","New Sarai","Tabriz","Tiflis","Otrar","Sanchu","Kazan",
