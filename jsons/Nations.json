@@ -58,7 +58,7 @@
         "innerColor": [146,221,9],
         "uniqueName": "Trade Caravans",
         "uniques": [
-            "[+1 Gold] from every Trade Route]",
+            "[+1 Gold] from every Trade Route",
             "[+50]% Natural religion spread [in all cities connected to capital]",
             "Double quantity of [Oil] produced"
         ],
@@ -370,14 +370,14 @@
         "innerColor": [255,255,255],
         "uniqueName": "Sun Never Sets",
         "uniques": [
-            "Comment [[+2] Movement <for [Water] and [Embarked] units>]",
+            "Comment [+2 Movement for Water and Embarked units]",
             "[+2] Movement <for [Water] units> <hidden from users>",
             "[+2] Movement <for [Embarked] units> <hidden from users>",
             "Gain an extra spy <upon entering the [Renaissance era]>"
-            "Comment [[+1 Happiness] from every [Police Station] and [Constabulary]]",
+            "Comment [+1 [Happiness] from every Police Station and Constabulary]",
             "[+1 Happiness] from every [Police Station] <hidden from users>",
             "[+1 Happiness] from every [Constabulary] <hidden from users>",
-            "Comment [[+100]% Production when constructing [Police Station] and [Constabulary] buildings [in all cities]]",
+            "Comment [+100% Production when constructing Police Station and Constabulary buildings in all cities]",
             "[+100]% Production when constructing [Police Station] buildings [in all cities] <hidden from users>",
             "[+100]% Production when constructing [Constabulary] buildings [in all cities] <hidden from users>"
         ],
@@ -765,7 +765,7 @@
         "uniqueName": "Mongol Terror",
         "uniques": [
             "[+30]% Strength <vs [City-States]>",
-            "Comment [[+1] Movement <for [Mounted] and [Armored] units>]"
+            "Comment [+1 Movement for Mounted and Armored units]"
             "[+1] Movement <for [Mounted] units> <hidden from users>",
             "[+1] Movement <for [Armored] units> <hidden from users>",
             "[+1 Food] from every [Horses] <after discovering [Chivalry]>",
